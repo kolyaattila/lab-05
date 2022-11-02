@@ -1,6 +1,5 @@
 Prezenta
 Robotin Sergiu
-
 Moza Sorina-Dana
 Silaghi Fabian Rafael
 Lup Danut-Nicusor
@@ -12,4 +11,5 @@ Moza Sorina-Dana
 Schmidt Erik
 Tcaciov Daniel
 Sonea Eduard - Gabriel
+SuciganRazvan
 
